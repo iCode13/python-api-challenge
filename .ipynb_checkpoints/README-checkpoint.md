@@ -16,6 +16,7 @@ The languages, libraries and other tools used in this project are as below, and 
     Pandas - version 20.1.1
     Matplotlib - version 3.3.0
     Citipy - 0.0.5
+    Gmaps - 0.9.0
     Scipy - version 1.5.1
     Jupyter Notebook
 
