@@ -9,7 +9,7 @@ Using the cities located in WeatherPy, this script aims to find locations amongs
 ## General Info
 
 ### Data Set
-Note: Any user running this code must use their own API keys in order to successfully make the API calls.
+Note: Any user running this code must use their own API keys in order to successfully make the API calls (api_keys.py template file provided).
 * Python library, CityPy (https://pypi.python.org/pypi/citipy)
 * OpenWeatherMap API (https://openweathermap.org/api)
 * Google Places API
