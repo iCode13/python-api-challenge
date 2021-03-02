@@ -12,6 +12,7 @@ Using the cities located in WeatherPy, this script aims to find locations amongs
 * Python library, CityPy (https://pypi.python.org/pypi/citipy)
 * OpenWeatherMap API (https://openweathermap.org/api)
 * Google Places API
+Note: Any user running this code must use their own API keys in order to successfully make the API calls.
     
 ### Technologies
 The languages, libraries and other tools used in this project are as below:
